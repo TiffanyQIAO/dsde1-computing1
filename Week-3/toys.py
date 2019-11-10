@@ -18,7 +18,8 @@ def inc(a):
 # to the input and returns the result
 def inc_return(a):
     a+1
-    return a# hint this is incomplete
+    return a
+    # hint this is incomplete
 
 
 # write a function that adds
